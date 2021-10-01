@@ -14,3 +14,8 @@ def contributors():
 	me("your name", "whatever text")
 ```
 - Go to main repository, then create a pull request
+
+# Folks who joined the party
+<a href="https://github.com/NusantaraDevs/NusantaraHacktoberfest/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NusantaraDevs/NusantaraHacktoberfest" />
+</a>
