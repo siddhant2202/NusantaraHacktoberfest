@@ -15,6 +15,7 @@ def contributors():
 	# More info check pull requests
 	# 
 	me("Ayra", "Feel free to pull request!")
+        me("Dhimas", "Nice and good :)")
 
 
 print(" ")
