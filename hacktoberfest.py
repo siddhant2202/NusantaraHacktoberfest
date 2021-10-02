@@ -21,6 +21,7 @@ def contributors():
     me("mnabila", "Sarjana Permageran Indonesia")
     me("Dhimas", "Nice and good :)")
     me("ZERO","Everything start from zero")
+    me("Hafitz", "Just wanna contribute")
 
 
 print(" ")
