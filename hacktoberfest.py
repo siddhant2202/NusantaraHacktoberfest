@@ -20,6 +20,7 @@ def contributors():
     me("Arnab", "Javascript is ❤️")
     me("mnabila", "Sarjana Permageran Indonesia")
     me("Dhimas", "Nice and good :)")
+    me("ZERO","Everything start from zero")
 
 
 print(" ")
