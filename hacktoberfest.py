@@ -28,6 +28,7 @@ def contributors():
     me("Hafitz", "Just wanna contribute")
     me("Rizal", "Hello World!")
     me("Najahi", "Yoo!")
+    me("Anggit", "ikut mejeng")
 
 
 print(" ")
