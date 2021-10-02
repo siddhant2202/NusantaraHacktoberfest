@@ -17,6 +17,7 @@ def contributors():
     #
     me("Ayra", "Feel free to pull request!")
     me("Monu", "Please Accept my pull request!")
+    me("Arnab", "Javascript is ❤️")
 
 
 print(" ")
