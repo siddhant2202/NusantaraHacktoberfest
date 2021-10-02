@@ -1,3 +1,7 @@
+# Hacktoberfest 2021
+# To join the club, go to https://hacktoberfest.digitalocean.com/ and register yourself
+# Then you are ready to pull request with this repository
+
 def me(name, about):
     print("- {}: {}".format(name, about))
 
