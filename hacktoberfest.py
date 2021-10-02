@@ -23,6 +23,7 @@ def contributors():
     me("ZERO","Everything start from zero")
     me("Hafitz", "Just wanna contribute")
     me("Rizal", "Hello World!")
+    me("Najahi", "Yoo!")
 
 
 print(" ")
