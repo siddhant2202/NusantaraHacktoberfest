@@ -19,6 +19,7 @@ def contributors():
     me("Monu", "Please Accept my pull request!")
     me("Arnab", "Javascript is ❤️")
     me("mnabila", "Sarjana Permageran Indonesia")
+    me("Dhimas", "Nice and good :)")
 
 
 print(" ")
