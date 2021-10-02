@@ -16,6 +16,13 @@ def contributors():
     # More info check pull requests
     #
     me("Ayra", "Feel free to pull request!")
+    me("Monu", "Please Accept my pull request!")
+    me("Arnab", "Javascript is ❤️")
+    me("mnabila", "Sarjana Permageran Indonesia")
+    me("Dhimas", "Nice and good :)")
+    me("ZERO","Everything start from zero")
+    me("Hafitz", "Just wanna contribute")
+    me("Rizal", "Hello World!")
     me("Najahi", "Yoo!")
 
 
