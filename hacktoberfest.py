@@ -29,6 +29,7 @@ def contributors():
     me("Rizal", "Hello World!")
     me("Najahi", "Yoo!")
     me("Shreyas", "Hello Hacktober2021")
+    me("DHARSHINI", "PYTHON IS LOVE, Thanks for giving me a beginner level challenge, i am a beginner tho, learning pull request")
 
 
 print(" ")
