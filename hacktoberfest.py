@@ -28,9 +28,9 @@ def contributors():
     me("Hafitz", "Just wanna contribute")
     me("Rizal", "Hello World!")
     me("Najahi", "Yoo!")
+    me('Nautilus', u"I've no idea why I'm doing this \u0D9E")
 
 
 print(" ")
-print("Happy Hacktoberfest 2021!")
-print("Here is our contributors from worldwide:")
+print("Happy Hacktoberfest 2021!\nHere is our contributors from worldwide:")
 contributors()
