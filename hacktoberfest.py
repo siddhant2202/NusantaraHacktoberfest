@@ -45,6 +45,7 @@ def contributors():
     me("vcyzteen", "Salve!")
     me("Kanishk", "Please do assign this issue to me and I shall provide you with the results asap.")
     me("Adisubagja", "All The Best!")
+    me("Abhinab", "Python is easy and good")
 
 
 print(" ")
