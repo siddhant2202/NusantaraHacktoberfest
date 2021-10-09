@@ -39,6 +39,7 @@ def contributors():
     me("Tha", "Hi Everyone!")
     me("shafhan", "Best day ever")
     me("Mubashir Rehman", "Python is comparably easier to understand as compared to c++.")
+    me("Ajit", "Hello Hacktober2021")
 
 
 print(" ")
