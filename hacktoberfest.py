@@ -19,6 +19,7 @@ def contributors():
     #
     # More info check pull requests
     #
+    me("Debasish", "Please Accept my pull request!")
     me("Ayra", "Feel free to pull request!")
     me("Monu", "Please Accept my pull request!")
     me("Arnab", "Javascript is ❤️")
@@ -42,6 +43,10 @@ def contributors():
     me("Ajit", "Hello Hacktober2021")
     me("Ujjwal", "Python is amazing")
     me("Dinda", "pacarnya ayra nih,senggol dong")
+    me("vcyzteen", "Salve!")
+    me("Kanishk", "Please do assign this issue to me and I shall provide you with the results asap.")
+    me("Adisubagja", "All The Best!")
+    me("Abhinab", "Python is easy and good")
     me("Danu", "Bagi uangnya om")
 
 
