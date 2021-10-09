@@ -42,6 +42,7 @@ def contributors():
     me("Ajit", "Hello Hacktober2021")
     me("Ujjwal", "Python is amazing")
     me("Dinda", "pacarnya ayra nih,senggol dong")
+    me("vcyzteen", "Salve!")
 
 
 print(" ")
