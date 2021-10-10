@@ -49,6 +49,7 @@ def contributors():
     me("Abhinab", "Python is easy and good")
     me("Danu", "Bagi uangnya om")
     me("Sarthak", "Just wanna enjoy my Opensource Life :)")
+    me("Siddhant", "A Platform for spoon & fork")
 
 
 print(" ")
